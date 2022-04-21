@@ -1,0 +1,15 @@
+C:\Meridianlink\StudySessions\PyramidChallenge\bin\Debug\net6.0\PyramidChallenge.exe
+C:\Meridianlink\StudySessions\PyramidChallenge\bin\Debug\net6.0\PyramidChallenge.deps.json
+C:\Meridianlink\StudySessions\PyramidChallenge\bin\Debug\net6.0\PyramidChallenge.runtimeconfig.json
+C:\Meridianlink\StudySessions\PyramidChallenge\bin\Debug\net6.0\PyramidChallenge.dll
+C:\Meridianlink\StudySessions\PyramidChallenge\bin\Debug\net6.0\PyramidChallenge.pdb
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\PyramidChallenge.csproj.AssemblyReference.cache
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\PyramidChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\PyramidChallenge.AssemblyInfoInputs.cache
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\PyramidChallenge.AssemblyInfo.cs
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\PyramidChallenge.csproj.CoreCompileInputs.cache
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\PyramidChallenge.dll
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\refint\PyramidChallenge.dll
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\PyramidChallenge.pdb
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\PyramidChallenge.genruntimeconfig.cache
+C:\Meridianlink\StudySessions\PyramidChallenge\obj\Debug\net6.0\ref\PyramidChallenge.dll
